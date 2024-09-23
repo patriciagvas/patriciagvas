@@ -3,7 +3,7 @@
 - I'm currently transitioning my career to become a junior data analyst.
 - I'm currently learning the basic tools to work with data analysis such as Python, Pandas, SQL, among others.
 - Pronouns: she/her/hers
-- Fun fact: Fun fact: I also have a master's degree in chemical engineering and worked as a researcher in the field of biotechnology developing projects for the production of enzymes and bioethanol from agro-industrial waste.
+- Fun fact: I also have a master's degree in chemical engineering and worked as a researcher in the field of biotechnology developing projects for the production of enzymes and bioethanol from agro-industrial waste.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="My-sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg">
